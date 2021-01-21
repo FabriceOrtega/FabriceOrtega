@@ -1,4 +1,15 @@
-### Hi there 👋
+# Fabrice Ortega, iOS Developer.
+
+Hi there, I am Fabrice, an iOS Developer.
+After several years as an Engineer in the automotive industry, it was time for me to learn something new, and most importantly something that fits more to my aspirations, that's why I started this amazing journey to become a mobile app developer !
+Please check out the projects I uploaded on my GitHub, here is a sample :
+
+
+## KanjiMemo
+
+I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
+
+<img src=KanjiMemoPics/Screen1.png width="200"> <img src=KanjiMemoPics/Screen2.png width="200"> <img src=KanjiMemoPics/Screen3.gif width="200"> <img src=KanjiMemoPics/Screen4.png width="200">
 
 <!--
 **FabriceOrtega/FabriceOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
