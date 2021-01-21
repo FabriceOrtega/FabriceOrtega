@@ -10,6 +10,7 @@ Please check out the projects I uploaded on my GitHub, here is a sample :
 ## KanjiMemo
 
 I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
+
 <img src=KanjiMemoPics/Screen1.png width="200"> <img src=KanjiMemoPics/Screen2.png width="200"> <img src=KanjiMemoPics/Screen3.gif width="200"> <img src=KanjiMemoPics/Screen4.png width="200">
 
 
@@ -18,6 +19,7 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 ## Reciplease
 
 Reciplease is an app which has been developped during my OpenClassRooms training. The aim of this app is to search for recipes according to the ingredients that the user is entering. The user has also the possibility to set a recipe as favorite.
+
 <img src=RecipleasePics/Screen1.png width="200"> <img src=RecipleasePics/Screen2.png width="200"> <img src=RecipleasePics/Screen3.png width="200"> <img src=RecipleasePics/Screen4.gif width="200">
 
 
@@ -25,6 +27,7 @@ Reciplease is an app which has been developped during my OpenClassRooms training
 ## Le Baluchon
 
 Le Baluchon is an app which has been developped during my OpenClassRooms training. The aim of this app is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
+
 <img src=LebaluchonPics/Screen1.png width="200"> <img src=LebaluchonPics/Screen2.png width="200"> <img src=LebaluchonPics/Screen3.png width="200"> <img src=LebaluchonPics/Screen4.png width="200">
 
 <!--
