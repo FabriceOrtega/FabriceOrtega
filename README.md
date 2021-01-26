@@ -28,7 +28,7 @@ Reciplease is an app which has been developped during my OpenClassRooms training
 
 Le Baluchon is an app which has been developped during my OpenClassRooms training. The aim of this app is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
 
-<img src=LebaluchonPics/Screen1.png width="200"> <img src=LebaluchonPics/Screen2.png width="200"> <img src=LebaluchonPics/Screen3.png width="200"> <img src=LebaluchonPics/Screen4.png width="200">
+<img src=lebaluchonPics/Screen1.png width="200"> <img src=lebaluchonPics/Screen2.png width="200"> <img src=lebaluchonPics/Screen3.png width="200"> <img src=lebaluchonPics/Screen4.png width="200">
 
 <!--
 **FabriceOrtega/FabriceOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
