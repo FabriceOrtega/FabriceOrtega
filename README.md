@@ -8,6 +8,7 @@ Please check out the projects I uploaded on my GitHub, here is a sample :
 
 
 ## [KanjiMemo](https://github.com/FabriceOrtega/KanjiMemo)
+**Framework:** UIKit, CoreData, UserNotifications / **External library:** Shuffle / **Design pattern:** MVC
 
 I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
 
@@ -17,6 +18,7 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 
 
 ## [Reciplease](https://github.com/FabriceOrtega/Reciplease)
+**Framework:** UIKit, CoreData / **External library:** Alamofire / **API:** edaman / **Design pattern:** MVC
 
 Reciplease is an app which has been developped during my OpenClassRooms training. The aim of this app is to search for recipes according to the ingredients that the user is entering. The user has also the possibility to set a recipe as favorite.
 
@@ -25,6 +27,7 @@ Reciplease is an app which has been developped during my OpenClassRooms training
 
 
 ## [Le Baluchon](https://github.com/FabriceOrtega/LeBaluchon)
+**Framework:** UIKit / **API:** fixer.io, open-weather, googletranslate / **Design pattern:** MVC
 
 Le Baluchon is an app which has been developped during my OpenClassRooms training. The aim of this app is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
 
