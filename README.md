@@ -16,6 +16,14 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 
 
 
+## [BudgetBuddy](https://github.com/FabriceOrtega/BudgetBuddy)
+**Framework:** SwiftUI, CoreData / **Design pattern:** MVVM
+
+BudgetBuddy is an app that allows to enter expenses to manage your budget. You can check your expenses for a specific day or month. The exepenses are organized by category. The app suuports dark mode.
+
+*Pictures coming soon*
+
+
 
 ## [Reciplease](https://github.com/FabriceOrtega/Reciplease)
 **Framework:** UIKit, CoreData, XCTest / **External library:** Alamofire / **API:** edaman / **Design pattern:** MVC
