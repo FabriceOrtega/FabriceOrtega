@@ -7,7 +7,7 @@ Please check out the projects I uploaded on my GitHub, here is a sample :
 
 
 
-## [KanjiMemo](https://github.com/FabriceOrtega/KanjiMemo)
+<img src=AppIcons/KanjiMemo.png width="50">## [KanjiMemo](https://github.com/FabriceOrtega/KanjiMemo)
 **Framework:** UIKit, CoreData, UserNotifications, XCTest / **External library:** Shuffle / **Design pattern:** MVC
 
 I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
