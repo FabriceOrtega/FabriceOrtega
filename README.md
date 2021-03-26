@@ -19,7 +19,7 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 ## [BudgetBuddy](https://github.com/FabriceOrtega/BudgetBuddy)
 **Framework:** SwiftUI, CoreData, WidgetKit / **Design pattern:** MVVM
 
-BudgetBuddy is an app that allows to enter expenses to manage your budget. You can check your expenses for a specific day or month and they are organized by category. The app suuports dark mode and has a widget to allow quick expense addition.
+BudgetBuddy is an app that allows to enter expenses to manage your budget. You can check your expenses for a specific day or month and they are organized by category. The app supports dark mode and has a widget to allow quick expense addition.
 
 <img src=BudgetBuddyPics/Screen1.png width="200"> <img src=BudgetBuddyPics/Screen5.png width="200"> <img src=BudgetBuddyPics/Screen3.png width="200"> <img src=BudgetBuddyPics/Screen4.gif width="200">
 
@@ -37,7 +37,7 @@ Reciplease is an app which has been developped during my OpenClassRooms training
 ## [Le Baluchon](https://github.com/FabriceOrtega/LeBaluchon)
 **Framework:** UIKit, XCTest / **API:** fixer.io, open-weather, googletranslate / **Design pattern:** MVC
 
-Le Baluchon is an app which has been developped during my OpenClassRooms training. The aim of this app is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
+Le Baluchon is a travel app which aim is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
 
 <img src=lebaluchonPics/Screen1.png width="200"> <img src=lebaluchonPics/Screen2.png width="200"> <img src=lebaluchonPics/Screen3.png width="200"> <img src=lebaluchonPics/Screen4.png width="200">
 
