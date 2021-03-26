@@ -7,7 +7,7 @@ Please check out the projects I uploaded on my GitHub, here is a sample :
 
 
 
-<img src=AppIcons/KanjiMemo.png width="50"> ## [KanjiMemo](https://github.com/FabriceOrtega/KanjiMemo)
+## [<img src=AppIcons/KanjiMemo.png width="50"> Kanji-Memo](https://github.com/FabriceOrtega/KanjiMemo)
 **Framework:** UIKit, CoreData, UserNotifications, XCTest / **External library:** Shuffle / **Design pattern:** MVC
 
 I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
@@ -16,7 +16,7 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 
 
 
-## [BudgetBuddy](https://github.com/FabriceOrtega/BudgetBuddy)
+## [<img src=AppIcons/BudgetBuddy.png width="50"> BudgetBuddy](https://github.com/FabriceOrtega/BudgetBuddy)
 **Framework:** SwiftUI, CoreData, WidgetKit / **Design pattern:** MVVM
 
 BudgetBuddy is an app that allows to enter expenses to manage your budget. You can check your expenses for a specific day or month and they are organized by category. The app supports dark mode and has a widget to allow quick expense addition.
@@ -25,7 +25,7 @@ BudgetBuddy is an app that allows to enter expenses to manage your budget. You c
 
 
 
-## [Reciplease](https://github.com/FabriceOrtega/Reciplease)
+## [<img src=AppIcons/Reciplease.png width="50"> Reciplease](https://github.com/FabriceOrtega/Reciplease)
 **Framework:** UIKit, CoreData, XCTest / **External library:** Alamofire / **API:** edaman / **Design pattern:** MVC
 
 Reciplease is an app which has been developped during my OpenClassRooms training. The aim of this app is to search for recipes according to the ingredients that the user is entering. The user has also the possibility to set a recipe as favorite.
@@ -34,7 +34,7 @@ Reciplease is an app which has been developped during my OpenClassRooms training
 
 
 
-## [Le Baluchon](https://github.com/FabriceOrtega/LeBaluchon)
+## [<img src=AppIcons/LeBaluchon.png width="50"> Le Baluchon](https://github.com/FabriceOrtega/LeBaluchon)
 **Framework:** UIKit, XCTest / **API:** fixer.io, open-weather, googletranslate / **Design pattern:** MVC
 
 Le Baluchon is a travel app which aim is to compare the weather between two locations. The app can also translate between two languages and calculate an amount in anoter currency with the current rate.
