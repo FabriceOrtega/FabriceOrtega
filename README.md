@@ -21,7 +21,7 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 
 BudgetBuddy is an app that allows to enter expenses to manage your budget. You can check your expenses for a specific day or month and they are organized by category. The app supports dark mode and has a widget to allow quick expense addition.
 
-<img src=BudgetBuddyPics/Screen7.png width="200"> <img src=BudgetBuddyPics/Screen8.png width="200"> <img src=BudgetBuddyPics/Screen9.png width="200"> <img src=BudgetBuddyPics/Screen10.gif width="200">
+<img src=BudgetBuddyPics/Screen7.png width="200"> <img src=BudgetBuddyPics/Screen8.png width="200"> <img src=BudgetBuddyPics/Screen9.png width="200"> <img src=BudgetBuddyPics/Screen11.gif width="200">
 
 
 
