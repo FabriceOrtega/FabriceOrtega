@@ -32,7 +32,7 @@ BudgetBuddy is an app that allows you to enter expenses to manage your budget. Y
 
 SecretSpots is an app that allows the user to find spots that the community enterred. The user can enter different kind of spots (restaurants, nice views, nice buildings, fun activities...) that he like and that he won't find on the usual tourist guides. He can check the spot around him, or query a place. The Vapor web service is also available in this repository.
 
-<img src=SecretSpots/Screen1.png width="200"> <img src=SecretSpots/Screen2.png width="200"> <img src=SecretSpots/Screen3.png width="200"> <img src=SecretSpots/Screen5.png width="200">
+<img src=SecretSpots/Screen6.png width="200"> <img src=SecretSpots/Screen2.png width="200"> <img src=SecretSpots/Screen3.png width="200"> <img src=SecretSpots/Screen5.png width="200">
 
 
 
