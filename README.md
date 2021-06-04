@@ -6,13 +6,24 @@ Please check out the projects I uploaded on my GitHub, here is a sample :
 
 
 
-
 ## [<img src=AppIcons/KanjiMemo.png width="50"> Kanji-Memo](https://github.com/FabriceOrtega/KanjiMemo)
 **Frameworks:** UIKit, CoreData, UserNotifications, XCTest / **External library:** Shuffle / **Design pattern:** MVC
 
 I love Japan and I am learning the language. Japanese "writing system" is complex, the most complex part is without a doubt the Kanji, these Chinese characters. With the KanjiMemo app, you can learn the meanings of those Kanji by playing with a quizz with swipe cards (tinder style). With the repetition of those small quizz, it will be easy to remember the Kanji.
 
 <img src=KanjiMemoPics/Screen1.png width="200"> <img src=KanjiMemoPics/Screen2.png width="200"> <img src=KanjiMemoPics/Screen5.gif width="200"> <img src=KanjiMemoPics/Screen4.png width="200">
+
+
+
+## [<img src=AppIcons/Quizzy.png width="50"> BudgetBuddy](https://github.com/FabriceOrtega/Quizzy)
+**Frameworks:** SwiftUI, XCTest / **External library:** Alamofire / **API:** opentdb / **Design pattern:** MVVM
+
+Quizzy is a quizz app with many categories like movies, video games, cartoon, manga, sports, general knowledge... The high scores are saved for each categories, this allows the users to challenge themselves.
+The app is based on the Open Trivia DataBase.
+
+<img src=QuizzyPics/Screen1.png width="200"> <img src=QuizzyPics/Screen2.png width="200"> <img src=QuizzyPics/Screen3.gif width="200"> <img src=QuizzyPics/Screen4.png width="200">
+
+
 
 
 
