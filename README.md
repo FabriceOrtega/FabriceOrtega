@@ -15,13 +15,13 @@ I love Japan and I am learning the language. Japanese "writing system" is comple
 
 
 
-## [<img src=AppIcons/Quizzy.png width="50"> BudgetBuddy](https://github.com/FabriceOrtega/Quizzy)
+## [<img src=AppIcons/Quizzy.png width="50"> Quizzy](https://github.com/FabriceOrtega/Quizzy)
 **Frameworks:** SwiftUI, XCTest / **External library:** Alamofire / **API:** opentdb / **Design pattern:** MVVM
 
 Quizzy is a quizz app with many categories like movies, video games, cartoon, manga, sports, general knowledge... The high scores are saved for each categories, this allows the users to challenge themselves.
 The app is based on the Open Trivia DataBase.
 
-<img src=QuizzyPics/Screen1.png width="200"> <img src=QuizzyPics/Screen2.png width="200"> <img src=QuizzyPics/Screen3.gif width="200"> <img src=QuizzyPics/Screen4.png width="200">
+<img src=QuizzyPics/Screen1.png width="200"> <img src=QuizzyPics/Screen2.png width="200"> <img src=QuizzyPics/Screen5.gif width="200"> <img src=QuizzyPics/Screen4.png width="200">
 
 
 
